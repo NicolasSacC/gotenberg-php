@@ -1,5 +1,5 @@
 {
-  "name": "gotenberg/gotenberg-php",
+  "name": "nicolassacc/gotenberg-php",
   "description": "A PHP client for interacting with Gotenberg, a developer-friendly API for converting various documents to PDF",
   "homepage": "https://github.com/gotenberg/gotenberg-php",
   "keywords": [
